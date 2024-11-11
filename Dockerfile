@@ -1,5 +1,4 @@
 FROM cepgbaseacr.azurecr.io/docker.io/openjdk:17-slim
-LABEL authors="KTDS"
 
 VOLUME /tmp
 
