@@ -73,7 +73,7 @@ jobs:
       run: |
           cd manifests
           echo "`ls`"
-          git config --global user.email "lee03453@naver.com"
-          git config --global user.name "cloudexam"
+          git config --global user.email "iyu12@naver.com"
+          git config --global user.name "yoo-seungchul"
           git commit -am "Update image tag"
           git push -u origin main
